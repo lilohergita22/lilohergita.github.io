@@ -13,8 +13,12 @@
   /* background-color: #e2edff; */
 }
 
-#contact {
+#image {
   background-color: #ebebeb;
+}
+
+#contact {
+  background-color: #fff;
 
   /* background-color: #e2edff; */
 }
@@ -22,3 +26,18 @@
 section {
   padding-top: 10rem;
 }
+
+.image-img {
+  width: 100%;
+}
+
+#image .row > * {
+  padding: 0;
+}
+
+#footer {
+  background-color: #ebebeb;
+  padding: 50px;
+  text-align: center;
+}
+
